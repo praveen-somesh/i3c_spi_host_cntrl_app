@@ -1,0 +1,7 @@
+#Fri Dec 30 03:26:51 IST 2016
+base.0=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d07be726a68b51ff187837e3b825a89202b2bd61
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb02573c6eecfa83cc72c0ebcde59ed2e31e548d\\classes.dex
+base.1=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_eb02573c6eecfa83cc72c0ebcde59ed2e31e548d
+file.0=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d07be726a68b51ff187837e3b825a89202b2bd61\\classes.dex

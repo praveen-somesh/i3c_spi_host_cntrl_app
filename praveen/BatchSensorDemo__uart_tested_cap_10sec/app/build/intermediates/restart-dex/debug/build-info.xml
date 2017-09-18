@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="20784001853259"
+    token="5250949171210546875"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="491" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="474" />
+    <task
+        name="verifier"
+        duration="157" />
+
+    <artifact
+        location="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="20784001853259"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

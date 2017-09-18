@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5efef62a8c7f2f9914d1992967e7e25d2c35b306">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d07be726a68b51ff187837e3b825a89202b2bd61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="483f252d18a0a457acfd554a0be531ea56efedc4">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_eb02573c6eecfa83cc72c0ebcde59ed2e31e548d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\BatchSensorDemo__uart_tested\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_24a73a05a576c735f8c5c2d35bc84ade039cad5c\classes.dex" />
+    </item>
+
+</items>

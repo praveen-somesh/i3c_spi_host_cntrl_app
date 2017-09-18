@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@drawable/terminal"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="116dp"
+        android:layout_y="33dp"
+        android:text="Calibration"
+        android:textStyle="bold"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/auto_offset_text"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:layout_y="116dp"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_x="3dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_y="149dp"
+        android:gravity="center"
+        android:text="Gyro Angle Calib"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_x="-1dp" />
+
+    <TextView
+        android:id="@+id/right_roll_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="168dp"
+        android:text="Roll right 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/roll_right_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="162dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/roll_right_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="168dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/roll_left_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="220dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/roll_left_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="220dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/left_roll_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="14dp"
+        android:layout_y="220dp"
+        android:text="Roll Left 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+
+    <TextView
+        android:id="@+id/fwd_pitch_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="270dp"
+        android:text="Pitch Fwd 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/pitch_fwd_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="270dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/pitch_fwd_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="270dp"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/back_pitch_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="320dp"
+        android:text="Pitch Back 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/pitch_back_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="320dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/pitch_back_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="320dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/right_yaw_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="370dp"
+        android:text="Yaw Right 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/yaw_right_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="370dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/yaw_right_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="370dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/left_yaw_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="12dp"
+        android:layout_y="420dp"
+        android:text="Yaw Left 90"
+        android:visibility="invisible"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/yaw_left_button"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="136dp"
+        android:layout_y="420dp"
+        android:visibility="invisible"
+        android:text="OK" />
+
+    <TextView
+        android:id="@+id/yaw_left_text"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:layout_x="198dp"
+        android:layout_y="420dp"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ProgressBar
+        android:id="@+id/calib_progress"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_x="49dp"
+        android:layout_y="72dp"
+        android:indeterminateDrawable="@android:drawable/progress_indeterminate_horizontal"
+        android:indeterminateOnly="false"
+        android:maxHeight="20dip"
+        android:minHeight="20dip"
+        android:progressDrawable="@android:drawable/progress_horizontal" />
+
+</AbsoluteLayout>

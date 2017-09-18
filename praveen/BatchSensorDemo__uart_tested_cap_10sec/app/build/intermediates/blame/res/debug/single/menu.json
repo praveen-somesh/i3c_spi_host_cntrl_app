@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pop_menu.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\src\\main\\res\\menu\\pop_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\src\\main\\res\\menu\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pop_menu.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\src\\main\\res\\menu\\pop_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\src\\main\\res\\menu\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\BatchSensorDemo__uart_tested_cap_10sec\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    }
+]
