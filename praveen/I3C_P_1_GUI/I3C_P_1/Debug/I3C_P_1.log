@@ -1,0 +1,47 @@
+﻿Build started 24-08-2017 14:48:25.
+     1>Project "C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\I3C_P_1\I3C_P_1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\I3C_P_1.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       Skipping target "GenerateTargetFrameworkMonikerAttribute" because all output files are up-to-date with respect to the input files.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\I3C_P_1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt Source.cpp /clr:nostdlib 
+         Source.cpp
+     1>c:\users\pkoya\documents\visual studio 2010\projects\i3c_p_1\i3c_p_1\Form1.h(1113): warning C4804: '%' : unsafe use of type 'bool' in operation
+     1>Source.cpp(207): warning C4101: 'l' : unreferenced local variable
+     1>Source.cpp(343): warning C4172: returning address of local variable or temporary
+     1>Source.cpp(257): warning C4101: 'sendbuf' : unreferenced local variable
+     1>Source.cpp(261): warning C4101: 'hai' : unreferenced local variable
+     1>Source.cpp(400): warning C4172: returning address of local variable or temporary
+     1>Source.cpp(350): warning C4101: 'sendbuf' : unreferenced local variable
+     1>c:\users\pkoya\documents\visual studio 2010\projects\i3c_p_1\i3c_p_1\source.cpp(219): warning C4700: uninitialized local variable 'obuffer' used
+     1>c:\users\pkoya\documents\visual studio 2010\projects\i3c_p_1\i3c_p_1\source.cpp(245): warning C4700: uninitialized local variable 'str' used
+         All outputs are up-to-date.
+       CoreResGen:
+         No resources are out of date with respect to their source files. Skipping resource generation.
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\I3C_P_1.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\I3C_P_1.Form1.resources /MANIFEST /ManifestFile:"Debug\I3C_P_1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\I3C_P_1.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\I3C_P_1.obj
+         Debug\Source.obj
+         Debug\stdafx.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         ..\..\..\..\..\Desktop\temp_libmps\windows_lib\i386\libMPSSE.lib
+     1>libMPSSE.lib(ftdi_spi.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+     1>libMPSSE.lib(ftdi_infra.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libMPSSE.lib(ftdi_infra.obj)' or at 'C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\vc100.pdb'; linking object as if no debug info
+     1>libMPSSE.lib(ftdi_mid.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libMPSSE.lib(ftdi_mid.obj)' or at 'C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\vc100.pdb'; linking object as if no debug info
+     1>libMPSSE.lib(ftdi_spi.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'libMPSSE.lib(ftdi_spi.obj)' or at 'C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\vc100.pdb'; linking object as if no debug info
+         I3C_P_1.vcxproj -> C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\I3C_P_1.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\Debug\I3C_P_1.exe;#1" /manifest Debug\I3C_P_1.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\I3C_P_1.unsuccessfulbuild".
+         Touching "Debug\I3C_P_1.lastbuildstate".
+     1>Done Building Project "C:\Users\pkoya\Documents\Visual Studio 2010\Projects\I3C_P_1\I3C_P_1\I3C_P_1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:33.49
