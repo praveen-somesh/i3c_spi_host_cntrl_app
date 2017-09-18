@@ -1,0 +1,7 @@
+#Wed Jan 04 10:24:26 IST 2017
+base.0=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_de6593cfd5e8b6848e260a34d8304dd2a4c7c281
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8cd9fad0943670d260e496020a112ac24c5fc390\\classes.dex
+base.1=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8cd9fad0943670d260e496020a112ac24c5fc390
+file.0=C\:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_de6593cfd5e8b6848e260a34d8304dd2a4c7c281\\classes.dex

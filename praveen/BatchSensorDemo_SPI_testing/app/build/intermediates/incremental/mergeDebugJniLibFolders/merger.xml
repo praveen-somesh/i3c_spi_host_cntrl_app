@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\debug\jniLibs"/></dataSet></merger>

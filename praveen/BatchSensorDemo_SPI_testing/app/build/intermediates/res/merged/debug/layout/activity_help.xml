@@ -1,0 +1,52 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/whitesmoke"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="23dp"
+        android:text="Please follow the below instruction"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#990000"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="320dp"
+        android:layout_height="400dp"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="1. Click on the start demo button\n\n2. Click on the calibration button \n\n3. Please Keep the Board stationary don't move it until calibration is done(this Process will take
+long time due to repeated calculation).\n\n4. Press the Airplane button and wait for Interrupt,once Interrupt is generated then only Application will read the sensors data
+from the buffer according to the  data app will play
+back the by manipulating the 3D airplane image.\n\n5. If Interrupt is not generated, press the Airplane button again."
+        android:layout_marginTop="9dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#376A8D"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="150dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/buttonstyle"
+        android:shadowColor="#A8A8A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:text="Exit"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp" />
+
+</RelativeLayout>

@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_read_sensor_data.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity_read_sensor_data.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_indeterminate_progress.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_device.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\listitem_device.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_android__airplane_.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity_android__airplane_.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity__debug.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity__debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loadobjfile.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\loadobjfile.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\auto_calib_activity.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\auto_calib_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gatt_services_characteristics.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+    }
+]

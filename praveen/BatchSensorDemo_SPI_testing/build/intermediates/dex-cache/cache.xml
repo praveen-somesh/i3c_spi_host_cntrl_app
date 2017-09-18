@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62f71eb70954a847a13a02e707bd8dda0e4ecbc5">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8cd9fad0943670d260e496020a112ac24c5fc390\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_24a73a05a576c735f8c5c2d35bc84ade039cad5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f4e40986e385f61c05eb3e41a4525083c91b0757">
+        <dex dex="C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_de6593cfd5e8b6848e260a34d8304dd2a4c7c281\classes.dex" />
+    </item>
+
+</items>

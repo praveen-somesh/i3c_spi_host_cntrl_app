@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 295,
+                        "endColumn": 57,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 259
+                },
+                "from": {
+                    "file": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\values-w820dp\\styles(v14).xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 227,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 375
+                    }
+                }
+            }
+        ]
+    }
+]

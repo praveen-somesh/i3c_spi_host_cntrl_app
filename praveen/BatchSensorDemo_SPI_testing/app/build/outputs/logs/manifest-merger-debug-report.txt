@@ -1,0 +1,227 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:16:1-120:12
+	package
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:17:5-43
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:19:5-30
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:18:5-28
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:21:5-23:41
+	android:targetSdkVersion
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml
+compatible-screens
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:25:5-54:26
+screen#small+ldpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:27:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:27:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:27:17-43
+screen#small+mdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:28:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:28:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:28:17-43
+screen#small+hdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:29:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:29:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:29:17-43
+screen#small+xhdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:30:9-76
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:30:44-73
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:30:17-43
+screen#normal+ldpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:32:9-76
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:32:45-73
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:32:17-44
+screen#normal+mdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:33:9-76
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:33:45-73
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:33:17-44
+screen#normal+hdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:34:9-76
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:34:45-73
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:34:17-44
+screen#normal+xhdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:35:9-77
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:35:45-74
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:35:17-44
+screen#large+213
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:36:9-74
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:36:44-71
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:36:17-43
+screen#large+ldpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:38:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:38:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:38:17-43
+screen#large+mdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:39:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:39:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:39:17-43
+screen#large+hdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:40:9-75
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:40:44-72
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:40:17-43
+screen#large+xhdpi
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:41:9-76
+	android:screenDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:41:44-73
+	android:screenSize
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:41:17-43
+supports-screens
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:46:9-52:43
+	android:largeScreens
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:50:13-40
+	android:smallScreens
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:52:13-40
+	android:normalScreens
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:51:13-41
+	android:xlargeScreens
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:49:13-41
+	android:resizeable
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:47:13-38
+	android:anyDensity
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:48:13-38
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:61:5-63:35
+	android:required
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:63:9-32
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:62:9-53
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:65:5-68
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:65:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:66:5-74
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:66:22-71
+android:uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:68:5-89
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:68:30-86
+android:uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:69:5-83
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:69:30-80
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:70:5-88
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:70:30-85
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:72:5-75
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:72:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:75:5-68
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:75:22-65
+application
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:77:5-118:19
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:79:9-41
+	android:icon
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:78:9-47
+	android:theme
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:80:9-40
+activity#com.example.android.Airplane.DeviceScanActivity
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:81:9-89:20
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:83:13-45
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:82:13-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:84:13-88:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:85:17-69
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:85:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:87:17-77
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:87:27-74
+service#com.example.android.Airplane.BluetoothLeService
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:91:9-93:38
+	android:enabled
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:93:13-35
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:92:13-47
+activity#com.example.android.Airplane.Android_Airplane_Activity
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:95:9-98:51
+	android:screenOrientation
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:97:13-45
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:96:13-54
+activity#com.example.android.Airplane.AutoCalibration
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:99:9-101:48
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:101:13-45
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:100:13-44
+activity#com.example.android.Airplane.LoadObjFile
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:102:9-105:48
+	android:screenOrientation
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:104:13-49
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:105:13-45
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:103:13-40
+activity#com.example.android.Airplane.Airplane_Debug
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:106:9-108:70
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:108:13-67
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:107:13-43
+activity#com.example.android.Airplane.Help
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:109:9-111:59
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:111:13-56
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:110:13-33
+activity#com.example.android.Airplane.ReadSensorData
+ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:112:9-117:20
+	android:screenOrientation
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:115:13-45
+	android:name
+		ADDED from C:\Users\pkoya\Desktop\praveen\sensor_buffer_demo\SPI_Sensorbuffer_demo_design\BatchSensorDemo_SPI_testing\app\src\main\AndroidManifest.xml:113:13-43

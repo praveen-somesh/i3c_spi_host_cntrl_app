@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_activity.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\menu\\menu_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gatt_services.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\menu\\gatt_services.xml"
+    },
+    {
+        "merged": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pop_menu.xml",
+        "source": "C:\\Users\\pkoya\\Desktop\\praveen\\sensor_buffer_demo\\SPI_Sensorbuffer_demo_design\\BatchSensorDemo_SPI_testing\\app\\src\\main\\res\\menu\\pop_menu.xml"
+    }
+]
